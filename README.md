@@ -5,6 +5,6 @@
  
  Programming level: Intermidiate, still have a long way to go before I can frealy contribute to open source on a daily level.
  
- Contacts:  Discord: "Coder#2224"
+ Contacts:  Discord: "Coder#0007"
  
  
